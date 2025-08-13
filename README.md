@@ -11,6 +11,8 @@
 **StockFlow** is a modern, responsive, and real-time stock market analysis dashboard built for traders, investors, and market enthusiasts.  
 It delivers **live market data**, **beautiful charts**, and **actionable insights** in a sleek dark-mode interface.
 
+want to show LIVE!
+click here 👉 https://elaborate-lokum-a4c018.netlify.app/
 ---
 ## 🚀 Features
 

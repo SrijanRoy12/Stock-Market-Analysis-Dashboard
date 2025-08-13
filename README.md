@@ -32,9 +32,9 @@ It delivers **live market data**, **beautiful charts**, and **actionable insight
 
 ## 🖼 Preview
 
-![StockFlow Screenshot](assets/dashboard.png)
+![StockFlow Screenshot](assets/Dashboard 1.png)
 
-> Tip: add more screenshots like `assets/portfolio.png`, `assets/ta.png`, `assets/earnings.png` to showcase the new modules.
+> Tip: add more screenshots like `assets/Dashboard 2.png`, `assets/Dashboard 3.png`, `assets/Dashboard 4.png`, `assets/Dashboard 5.png`, `assets/Dashboard 6.png` to showcase the new modules.
 
 ---
 

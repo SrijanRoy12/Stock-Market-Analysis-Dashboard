@@ -12,7 +12,6 @@
 It delivers **live market data**, **beautiful charts**, and **actionable insights** in a sleek dark-mode interface.
 
 ---
-
 ## 🚀 Features
 
 - **🔍 Live Watchlist** – Track multiple companies with live price, % change, volume, and market cap.
@@ -32,10 +31,12 @@ It delivers **live market data**, **beautiful charts**, and **actionable insight
 
 ## 🖼 Preview
 
-![StockFlow Screenshot](assets/Dashboard 1.png)
-
-> Tip: add more screenshots like `assets/Dashboard 2.png`, `assets/Dashboard 3.png`, `assets/Dashboard 4.png`, `assets/Dashboard 5.png`, `assets/Dashboard 6.png` to showcase the new modules.
-
+![Dashboard 1](./assets/Dashboard%201.png)
+![Dashboard 2](./assets/Dashboard%202.png)
+![Dashboard 3](./assets/Dashboard%203.png)
+![Dashboard 4](./assets/Dashboard%204.png)
+![Dashboard 5](./assets/Dashboard%205.png)
+![Dashboard 6](./assets/Dashboard%206.png)
 ---
 
 ## 🛠 Tech Stack
